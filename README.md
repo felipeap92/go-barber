@@ -4,15 +4,15 @@ An barber appointment and scheduling app. This is the **Node.js REST API** (back
 
 ## Features & Dependencies
 
-- **[Node.js](https://nodejs.org/en/)**
-- **[Yarn](https://yarnpkg.com/en/)**
-- **[Docker](https://www.docker.com/)**
-- **[Express](https://github.com/expressjs/express)** — A web framework for Node
-- **[Sequelize](https://github.com/sequelize/sequelize)** — SQL dialect ORM for Node.js
-- **[JWT](https://jwt.io/)** — Method for representing claims securely between two parties
-- **[Yup](https://github.com/jquense/yup)** — Object schema validation
-- **[.ENV](https://github.com/motdotla/dotenv)** — Loads environment variables from a file
-- **[ESlint](https://eslint.org/)/[Prettier](https://prettier.io/)/[Editor Config](https://editorconfig.org/)** — Linting and consistent coding format and style
+- **[Node.js](https://nodejs.org/en/)** — JavaScript runtime built on Chrome's V8 JavaScript engine;
+- **[Yarn](https://yarnpkg.com/en/)** — Dependency management;
+- **[Docker](https://www.docker.com/)** — Set of products that use OS-level virtualization to deliver software in containers;
+- **[Express](https://github.com/expressjs/express)** — A web framework for Node;
+- **[Sequelize](https://github.com/sequelize/sequelize)** — SQL dialect ORM for Node.js;
+- **[JWT](https://jwt.io/)** — Method for representing claims securely between two parties;
+- **[Yup](https://github.com/jquense/yup)** — Object schema validation;
+- **[.ENV](https://github.com/motdotla/dotenv)** — Loads environment variables from a file;
+- **[ESlint](https://eslint.org/)/[Prettier](https://prettier.io/)/[Editor Config](https://editorconfig.org/)** — Linting and consistent coding format and style;
 
 ## Getting started
 
